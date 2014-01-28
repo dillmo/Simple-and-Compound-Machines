@@ -21,23 +21,23 @@ Table of Contents
 -----------------
 1. *Science Olympiad* Competition
 2. Simple Machines
-  2.1. Introduction to Simple Machines
-  2.2. Levers
-  2.3. Wheel and Axles
-  2.4. Inclined Planes
-  2.5. Wedges
-  2.6. Screws
-  2.7. Pulleys
+    1. Introduction to Simple Machines
+    2. Levers
+    3. Wheel and Axles
+    4. Inclined Planes
+    5. Wedges
+    6. Screws
+    7. Pulleys
 3. Mechanical Advantage
-  3.1. Introduction to Mechanical Advantage
-  3.2. Mechanical Advantage of Simple Machines
-  3.3. Mechanical Advantage of Compound Machines
+    1. Introduction to Mechanical Advantage
+    2. Mechanical Advantage of Simple Machines
+    3. Mechanical Advantage of Compound Machines
 4. Joints
-  3.1. Introduction to Joints
-  3.2. Revolute Joints
-  3.3. Sliding Joints
-  3.4. Cam Joints
-  3.5. Gear Joints
+    1. Introduction to Joints
+    2. Revolute Joints
+    3. Sliding Joints
+    4. Cam Joints
+    5. Gear Joints
 5. Putting it All Together
 6. Building a Compound Lever
 7. History of Compound Machines
