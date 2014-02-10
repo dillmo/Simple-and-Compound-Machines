@@ -115,3 +115,15 @@ cylinder must affect the motion of the other.
 The ideal mechanical advantage of a wheel and axle is the radius of the wheel
 divided by the radius of the axle. The wheel should be considered to be the
 larger cylinder of the system and the axle the smaller one.
+
+### Inclined Planes
+Most commonly called ramps, inclined planes are slopes that a weight will be
+slid up. More specifically, it can be defined as a surface where one end is
+higher than the other. Such devices are normally used for moving a weight
+vertically, similar to a windlass.
+
+The ideal mechanical advantage of an inclined plane is equal to the reciprocal
+of the sine of the slope angle. If you consider the inclined plane to be a
+right triangle, with the hypotenuse as its length and the legs as the ground
+and its height off the ground, the slope angle is equal to the angle adjacent
+to the ground and the hypotenuse.
