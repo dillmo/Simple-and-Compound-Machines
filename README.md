@@ -21,23 +21,20 @@ Table of Contents
 -----------------
 1. *Science Olympiad* Competition
 2. Simple Machines
-  1. Introduction to Simple Machines
-  2. Levers
-  3. Wheel and Axles
-  4. Inclined Planes
-  5. Wedges
-  6. Screws
-  7. Pulleys
+  1. Levers
+  2. Wheel and Axles
+  3. Inclined Planes
+  4. Wedges
+  5. Screws
+  6. Pulleys
 3. Mechanical Advantage
-  1. Introduction to Mechanical Advantage
-  2. Mechanical Advantage of Simple Machines
-  3. Mechanical Advantage of Compound Machines
+  1. Mechanical Advantage of Simple Machines
+  2. Mechanical Advantage of Compound Machines
 4. Joints
-  1. Introduction to Joints
-  2. Revolute Joints
-  3. Sliding Joints
-  4. Cam Joints
-  5. Gear Joints
+  1. Revolute Joints
+  2. Sliding Joints
+  3. Cam Joints
+  4. Gear Joints
 5. Putting it All Together
 6. Building a Compound Lever
 7. History of Compound Machines
@@ -64,3 +61,39 @@ firmly within it. Judges can be expected to turn the binders upside down, to
 test if anything falls out. The lever itself must be built of two levers which
 are directly connected to each other and a beam of a length not exceeding 50
 centimeters.
+
+Simple Machines
+---------------
+Simple machines are devices that modify normally by amplifying, a force or
+change its direction. When working with simple machines, it is important to
+recognize that force is a vector quantity. For instance, you do not just have 1
+N of force, you have 1 N of force downward. Be sure to take this into account
+when doing your math.
+
+Remember that simple machines are what make up compound machines. So, a wheel
+could be thought of as a simple machine, but a cart could be thought of as a
+compound machine, since it uses wheels in tandem with other machines.
+
+Finally, you should know that simple machines are not motorized. A motor would
+be an input force, not the machine itself. All the machine does is provide a
+*mechanical advantage*, or factor of amplification, to the input force in order
+to produce an output force, possible changing the direction of the force in the
+process. Be aware that there are two types of mechanical advantage. First off
+is ideal mechanical advantage. This is only applicable if you are in a
+frictionless environment, not in the real world. Secondly, you have an actual
+mechanical advantage, which does account for wear and tear as well as for
+friction. The actual mechanical advantage can be calculated as the ratio of the
+input force to the output force.
+
+### Levers
+Levers are simple machines generally designed to amplify an input force. A
+lever is essentially a beam connected to a hinge. This hinge is called the
+*fulcrum*. The ideal mechanical advantage of a lever is the ratio of the
+distance from the fulcrum to the point where the force is applied to the lever
+(L) to the distance from the fulcrum to the point where force is outputted (F),
+or F/L.
+
+On a lever, the output force always comes from the opposite end of the input
+force. Generally, the output force will be applied on one end, and the input
+applied all the way on the other. If this is true, then F + T will always be
+equal to the length of the lever.
