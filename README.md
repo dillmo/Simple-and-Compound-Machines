@@ -97,3 +97,21 @@ On a lever, the output force always comes from the opposite end of the input
 force. Generally, the output force will be applied on one end, and the input
 applied all the way on the other. If this is true, then F + T will always be
 equal to the length of the lever.
+
+### Wheel and Axles
+A wheel and axle is a wheel attached to a rod, the axle, in such a way that the
+wheel will rotate together with the axle. This machine is generally used to
+lift weights. This is achieved by winding rope around the axle and attaching
+the weight to the end of the rope. As the wheel rotates, it will lift the
+weight up or down. In this form, the wheel and axle is called a *windlass*.
+
+To determine whether something is a wheel and axle, you should look for two
+things. First off, you should test to make sure the machine contains two
+cylinders. Next, you should make sure they both rotate on the same axis.
+Provided both are true, you can be sure the device is a wheel and axle.
+Remember that this device must be a physical system. So, the motion of one
+cylinder must affect the motion of the other.
+
+The ideal mechanical advantage of a wheel and axle is the radius of the wheel
+divided by the radius of the axle. The wheel should be considered to be the
+larger cylinder of the system and the axle the smaller one.
