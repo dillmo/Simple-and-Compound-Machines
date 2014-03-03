@@ -129,3 +129,27 @@ of the sine of the slope angle. If you consider the inclined plane to be a
 right triangle, with the hypotenuse as its length and the legs as the ground
 and its height off the ground, the slope angle is equal to the angle adjacent
 to the ground and the hypotenuse.
+
+### Wedges
+At first sight, wedges seem to be inclined planes. They are in fact very
+similar in purpose to an inclined plane. Both can be used to lift objects. A
+wedge, however, is used for another application. Basically, the task of a wedge
+is to seperate two surfaces. Unlike with an inclined plane, this does not need
+to be done vertically. Additionally, the force comes from the blunt edge of the
+wedge, not a pulling force upon the object itself.
+
+Wedges are probably most familiar in two objects. The first is the hatchet,
+which has a purpose of seperating wood into multiple pieces. Secondly, there is
+the door wedge. Here, force under the wedge keeps a door from closing, even
+though it is applying force in that direction. In general, a wedge can be
+considered a portable inclined plane.
+
+Wedges work by taking a force and making it perpendicular to the direction in
+which it is going. To understand this, it is important to recall that forces
+are vector quantities. This perpendicular force is generally called by another
+name within the realm of physics. This name is *normal force*.
+
+To calculate the ideal mechanical advantage of a wedge, you must simply divide
+the length of its slope by its width. Therefore, if your wedge is a right
+triangle with the hypotenuse facing upwards, the mechanical advantage would be
+the length of its base divided by the length of the hypotenuse.
