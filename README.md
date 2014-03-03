@@ -1,3 +1,5 @@
+<!--Simple and Compound Machines (c) by dillmo-->
+
 Simple and Compound Machines
 ===========================
 This project is meant to serve as an introduction for compound machines, as well
