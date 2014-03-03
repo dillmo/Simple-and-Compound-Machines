@@ -134,12 +134,12 @@ to the ground and the hypotenuse.
 At first sight, wedges seem to be inclined planes. They are in fact very
 similar in purpose to an inclined plane. Both can be used to lift objects. A
 wedge, however, is used for another application. Basically, the task of a wedge
-is to seperate two surfaces. Unlike with an inclined plane, this does not need
+is to separate two surfaces. Unlike with an inclined plane, this does not need
 to be done vertically. Additionally, the force comes from the blunt edge of the
 wedge, not a pulling force upon the object itself.
 
 Wedges are probably most familiar in two objects. The first is the hatchet,
-which has a purpose of seperating wood into multiple pieces. Secondly, there is
+which has a purpose of separating wood into multiple pieces. Secondly, there is
 the door wedge. Here, force under the wedge keeps a door from closing, even
 though it is applying force in that direction. In general, a wedge can be
 considered a portable inclined plane.
@@ -153,3 +153,19 @@ To calculate the ideal mechanical advantage of a wedge, you must simply divide
 the length of its slope by its width. Therefore, if your wedge is a right
 triangle with the hypotenuse facing upwards, the mechanical advantage would be
 the length of its base divided by the length of the hypotenuse.
+
+### Screws
+A screw is similar to a motor in principle. Whereas a motor is used to convert
+electrical energy to physical force, a screw is used to convert torque to
+linear force. All screws utilize the fact that a rotating helix can cause
+linear force.
+
+To understand this, you can consider a screw to be an inclined plane wrapped
+around a cylinder. This allows you to see the connection between torque and
+linear force in application to a helix.
+
+Finding the ideal mechanical advantage of a screw is too complex for this
+application, since it requires a strong base in physics. However, you should
+know that the mechanical advantage increases as the distance between the
+threads increases. Conversely, the mechanical advantage of a screw decreases as
+the distance between the threads decreases.
