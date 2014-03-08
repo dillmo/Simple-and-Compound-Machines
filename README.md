@@ -285,3 +285,11 @@ cylinders wrapped around by a single rigid solid, as opposed to the multiple
 solids in a revolute joint. An example of a sliding joint is shown below.
 
 ![Sliding Joint](https://upload.wikimedia.org/wikipedia/commons/2/2c/Slider_joint.png "Sliding Joint")
+
+### Cam Joints
+A cam joint restricts rotational motion to one degree of linear motion. This is
+done by variating the length of a point from an axle. To accomplish this, a cam
+joint becomes essentially a circular object with a portion of it extended to a
+point. An example of a cam joint is shown below.
+
+![Cam Joint](https://upload.wikimedia.org/wikipedia/commons/d/de/Cams.svg "Cam Joint")
