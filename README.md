@@ -284,4 +284,4 @@ Sliding joints also look very similar to revolute joints. They are essentially
 cylinders wrapped around by a single rigid solid, as opposed to the multiple
 solids in a revolute joint. An example of a sliding joint is shown below.
 
-![Sliding Joint](https://upload.wikimedia.org/wikipedia/commons/1/12/Prismatic_joint.svg "Sliding Joint")
+![Sliding Joint](https://upload.wikimedia.org/wikipedia/commons/2/2c/Slider_joint.png "Sliding Joint")
