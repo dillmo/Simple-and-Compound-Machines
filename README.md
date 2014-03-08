@@ -274,3 +274,14 @@ any direction other than along a plane. An example revolute joint is shown
 below.
 
 ![Revolute Joint](https://upload.wikimedia.org/wikipedia/commons/2/2b/L-Kloben2.png "Revolute Joint")
+
+### Sliding Joints
+Like a revolute joint, a sliding joint is designed to restrain movement to one
+degree. However, this degree is not rotational. Instead, it restrains movement
+to a line.
+
+Sliding joints also look very similar to revolute joints. They are essentially
+cylinders wrapped around by a single rigid solid, as opposed to the multiple
+solids in a revolute joint. An example of a sliding joint is shown below.
+
+![Sliding Joint](https://upload.wikimedia.org/wikipedia/commons/1/12/Prismatic_joint.svg "Sliding Joint")
