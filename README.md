@@ -301,3 +301,18 @@ from it. This joint is then attached to an axis through a whole in its center.
 An example gear joint is shown below.
 
 ![Gear Joint](https://upload.wikimedia.org/wikipedia/commons/e/e8/Spur_Gear_12mm%2C_18t.svg "Gear Joint")
+
+Putting it All Together
+-----------------------
+To understand compound machines, you need to see them as a set of modifications
+to a force. These modifications are done through simple machines, which provide
+advantage, and compound machines, which restrict motion. So long as you are
+able to separate compound machines into combinations of simple machines and
+joints, you can easily understand how they work.
+
+A good example of a compound machine is the wheelbarrow. On a wheelbarrow, you
+can find two mechanisms. The first is the lever. The wheelbarrow is mounted on
+a fulcrum. This fulcrum is placed to make it easy to lift the wheelbarrow and
+its contents. Additionally, the wheelbarrow contains a wheel. This allows it to
+reduce friction to the ground, so it is easy to move. Since there is only one
+wheel, the wheelbarrow can be pivoted in any direction.
