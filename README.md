@@ -93,7 +93,9 @@ lever is essentially a beam connected to a hinge. This hinge is called the
 *fulcrum*. The ideal mechanical advantage of a lever is the ratio of the
 distance from the fulcrum to the point where the force is applied to the lever
 (L) to the distance from the fulcrum to the point where force is outputted (F),
-or F/L.
+or F/L. An example of a lever is shown below.
+
+![Lever Forces](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Simple_lever_forces.svg/389px-Simple_lever_forces.svg.png "Lever Forces")
 
 On a lever, the output force always comes from the opposite end of the input
 force. Generally, the output force will be applied on one end, and the input
@@ -105,7 +107,10 @@ A wheel and axle is a wheel attached to a rod, the axle, in such a way that the
 wheel will rotate together with the axle. This machine is generally used to
 lift weights. This is achieved by winding rope around the axle and attaching
 the weight to the end of the rope. As the wheel rotates, it will lift the
-weight up or down. In this form, the wheel and axle is called a *windlass*.
+weight up or down. In this form, the wheel and axle is called a *windlass*. An
+example windlass is shown below.
+
+![Windlass](https://upload.wikimedia.org/wikipedia/commons/4/46/Wheelaxle_quackenbos.gif "Windlass")
 
 To determine whether something is a wheel and axle, you should look for two
 things. First off, you should test to make sure the machine contains two
@@ -122,7 +127,10 @@ larger cylinder of the system and the axle the smaller one.
 Most commonly called ramps, inclined planes are slopes that a weight will be
 slid up. More specifically, it can be defined as a surface where one end is
 higher than the other. Such devices are normally used for moving a weight
-vertically, similar to a windlass.
+vertically, similar to a windlass. An example of an inclined plane is shown
+below.
+
+![Inclined Plane](https://upload.wikimedia.org/wikipedia/commons/e/ee/Free_body_diagram.png "Inclined Plane")
 
 The ideal mechanical advantage of an inclined plane is equal to the reciprocal
 of the sine of the slope angle. If you consider the inclined plane to be a
@@ -136,7 +144,14 @@ similar in purpose to an inclined plane. Both can be used to lift objects. A
 wedge, however, is used for another application. Basically, the task of a wedge
 is to separate two surfaces. Unlike with an inclined plane, this does not need
 to be done vertically. Additionally, the force comes from the blunt edge of the
-wedge, not a pulling force upon the object itself.
+wedge, not a pulling force upon the object itself. An example of a wedge is
+shown below.
+
+![Wedge](https://upload.wikimedia.org/wikipedia/commons/5/58/Klin.jpg "Wedge Forces")
+
+"Wedge," by Ciszewski W. Available under a
+[Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+license.
 
 Wedges are probably most familiar in two objects. The first is the hatchet,
 which has a purpose of separating wood into multiple pieces. Secondly, there is
@@ -162,7 +177,9 @@ linear force.
 
 To understand this, you can consider a screw to be an inclined plane wrapped
 around a cylinder. This allows you to see the connection between torque and
-linear force in application to a helix.
+linear force in application to a helix. An example screw is shown below.
+
+![Screw](https://upload.wikimedia.org/wikipedia/commons/3/32/Screw_demonstrator.png "Screw")
 
 Finding the ideal mechanical advantage of a screw is too complex for this
 application, since it requires a strong base in physics. However, you should
