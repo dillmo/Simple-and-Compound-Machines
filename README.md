@@ -251,3 +251,26 @@ advantage is equal to the product of the ideal mechanical advantages of the
 mechanical advantage of a compound machine is equal to products of the actual
 mechanical advantages of the simple machines it is composed of, or simply the
 ratio of its output force to its input force.
+
+Joints
+------
+Joints are used to connect simple machines, forming
+[compound machines](https://en.wikipedia.org/wiki/Compound_machine#Compound_machine).
+They constrain the movement of simple machines connected to other simple
+machines. This concept can be used in the production of very complex machines,
+such as in mechanical hands. Such systems of simple machines connected by
+joints are called
+[kinematic chains](https://en.wikipedia.org/wiki/Kinematic_chain).
+
+### Revolute Joints
+Revolute joints are used to restrain a pair of simple machines, or
+[kinematic pair](https://en.wikipedia.org/wiki/Kinematic_pair), to one degree,
+or dimension, of motion. These are often seen in doors, which are designed to
+rotate around the joints in a plane.
+
+A revolute joint looks similar to a cylinder surrounded by rigid solids
+wrapped around it. This prevents the movement of an object attached to it in
+any direction other than along a plane. An example revolute joint is shown
+below.
+
+![Revolute Joint](https://upload.wikimedia.org/wikipedia/commons/2/2b/L-Kloben2.png "Revolute Joint)
