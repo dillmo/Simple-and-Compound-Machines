@@ -169,3 +169,32 @@ application, since it requires a strong base in physics. However, you should
 know that the mechanical advantage increases as the distance between the
 threads increases. Conversely, the mechanical advantage of a screw decreases as
 the distance between the threads decreases.
+
+### Pulleys
+A pulley is essentially a wheel and axle. However, it is designed to perform a
+very different tax. Instead of changing linear motion into torque, a pulley
+provides a mechanical advantage to linear motion.
+
+If you look at a pulley, you will recognize a wheel and axle. The will
+generally has a groove, in order to support a rope or string. This design makes
+it possible for the wheel to not only provide a mechanical advantage to a
+force, but to change its direction as well. This can prove very useful in
+compound machines, since not only are you supplied with a method to convert
+torque into linear motion and vice versa, but you are also supplied with a
+method to change the direction of a force, even 180 degrees.
+
+The most recognizable machine utilizing the pulley is a block and tackle, which
+threads rope between two pulleys in order to gain a mechanical advantage. The
+more times the rope is threaded between the pulleys, the greater the mechanical
+advantage of the machine. In the block and tackle, the ideal mechanical
+advantage is equal to the number of parts of rope that support the block. This
+is best demonstrated by the diagram below, where the gun tackle has an ideal
+mechanical advantage of two, and each subsequent machine has a mechanical
+advantage one higher than the previous one.
+
+![Block and Tackle Designs](https://upload.wikimedia.org/wikipedia/commons/e/e1/Tackles.png "Block and Tackles")
+
+"A diagram showing some of the more common ways of rigging a tackle/purchase
+with their names," by Welkinridge. Available under a
+[Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+license.
