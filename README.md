@@ -273,4 +273,4 @@ wrapped around it. This prevents the movement of an object attached to it in
 any direction other than along a plane. An example revolute joint is shown
 below.
 
-![Revolute Joint](https://upload.wikimedia.org/wikipedia/commons/2/2b/L-Kloben2.png "Revolute Joint)
+![Revolute Joint](https://upload.wikimedia.org/wikipedia/commons/2/2b/L-Kloben2.png "Revolute Joint")
