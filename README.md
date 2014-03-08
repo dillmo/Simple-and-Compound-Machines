@@ -293,3 +293,11 @@ joint becomes essentially a circular object with a portion of it extended to a
 point. An example of a cam joint is shown below.
 
 ![Cam Joint](https://upload.wikimedia.org/wikipedia/commons/d/de/Cams.svg "Cam Joint")
+
+### Gear Joints
+Gear joints are designed to work in pairs to change the direction of rotational
+motion. A gear joint looks like a cogwheel, or a circle with teeth extended
+from it. This joint is then attached to an axis through a whole in its center.
+An example gear joint is shown below.
+
+![Gear Joint](https://upload.wikimedia.org/wikipedia/commons/e/e8/Spur_Gear_12mm%2C_18t.svg "Gear Joint")
