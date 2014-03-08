@@ -215,3 +215,39 @@ advantage one higher than the previous one.
 with their names," by Welkinridge. Available under a
 [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 license.
+
+Mechanical Advantage
+--------------------
+Mechanical advantage is the very essence of machines. Mechanical advantage
+works on the principle that you cannot modify the amount of work in a system.
+Therefore, it is necessary to modify a velocity in order to modify a force, and
+vice versa. This factor of modification is the mechanical advantage of a
+machine. For instance, a gun tackle has an ideal mechanical advantage of two.
+Therefore, it will double a force and halve a velocity. This allows it to
+increase a force without ever modifying the work in the machine.
+
+There are two types of mechanical advantage. The one most often referred to is
+the ideal mechanical advantage. This is the mechanical advantage of a machine
+with no wear and tear or friction. An ideal mechanical advantage will always be
+higher than the mechanical advantage observed in the real world. However, it is
+also the easiest to calculate, since there are less variables to consider.
+
+The second type of mechanical advantage is actual mechanical advantage. This is
+what will be observed in the real world. To calculate the actual mechanical
+advantage of a machine, you must divide the output force by the input force.
+
+### Mechanical Advantage of Simple Machines
+The ideal mechanical advantage of a simple machine is generally very easy to
+calculate, since you only have one machine to account for in your system. If
+you need to find the mechanical advantage of a simple machine, you can use one
+of the methods provided in the [Simple Machines Section](#simple-machines) of
+this guide.
+
+### Mechanical Advantage of Compound Machines
+The ideal mechanical advantage of a compound machine is slightly more difficult
+than that of a simple machine. For any compound machine, the ideal mechanical
+advantage is equal to the product of the ideal mechanical advantages of the
+[simple machines](#simple-machines) it is composed of. Likewise, the actual
+mechanical advantage of a compound machine is equal to products of the actual
+mechanical advantages of the simple machines it is composed of, or simply the
+ratio of its output force to its input force.
