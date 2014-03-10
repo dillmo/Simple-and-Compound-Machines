@@ -316,3 +316,30 @@ a fulcrum. This fulcrum is placed to make it easy to lift the wheelbarrow and
 its contents. Additionally, the wheelbarrow contains a wheel. This allows it to
 reduce friction to the ground, so it is easy to move. Since there is only one
 wheel, the wheelbarrow can be pivoted in any direction.
+
+Building a Compound Lever
+-------------------------
+Compound levers are complex machines designed to exploit the concept that
+resistance from one lever in the system of levers will act as power for the
+next. A good example of a compound lever is in nail clippers, which utilize
+force downwards on one lever to act as force upwards on the next.
+
+The most common compound lever used for measuring masses is the Roberval
+Balance. This balance uses two levers to hold vertical rods, which hold
+horizontal pans. Because of the structure of the Roberval Balance, the pans are
+always horizontal. This means that the position of the masses on the pans does
+not modify the outcome. Such a principle can prove very useful when measuring
+rounded masses, which have a tendency to roll.
+
+The construction of a Roberval balance is fairly simple. As a result, it can be
+easily explained through the below diagram.
+
+![Roberval balance](https://upload.wikimedia.org/wikipedia/en/e/e7/Roberval_balance.jpg "Roberval balance")
+
+"Roberval balance," by Anthony717. Available under a
+[Creative Commons Attribution-ShareAlike 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/)
+license.
+
+As you can see, the device is relatively simple. You should also utilize the
+Law of the Lever in your device with known masses. That way, you could slide
+your own masses across the lever to your own markings for masses.
