@@ -337,7 +337,7 @@ easily explained through the below diagram.
 ![Roberval balance](https://upload.wikimedia.org/wikipedia/en/e/e7/Roberval_balance.jpg "Roberval balance")
 
 "Roberval balance," by Anthony717. Available under a
-[Creative Commons Attribution-ShareAlike 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/)
+[Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 license.
 
 As you can see, the device is relatively simple. You should also utilize the
