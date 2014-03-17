@@ -40,6 +40,7 @@ Table of Contents
 5. [Putting it All Together](#putting-it-all-together)
 6. [Building a Compound Lever](#building-a-compound-lever)
 7. History of Compound Machines
+8. [License](#license)
 
 *Science Olympiad* Competition
 ----------------------------
@@ -343,3 +344,9 @@ license.
 As you can see, the device is relatively simple. You should also utilize the
 Law of the Lever in your device with known masses. That way, you could slide
 your own masses across the lever to your own markings for masses.
+
+License
+-------
+Licensed under a
+[Creative Commons Attribution 4.0 International](https://github.com/dillmo/Simple-and-Compound-Machines/blob/master/LICENSE)
+license.
