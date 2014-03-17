@@ -348,7 +348,7 @@ your own masses across the lever to your own markings for masses.
 History of Compound Machines
 ----------------------------
 Naturally, the idea of the compound machine originated with the idea of the
-simple machine, which made up the compound machine. To that extent, Archimedes
+simple machine, which made up the compound machine. To that extent, [Archimedes](https://en.wikipedia.org/wiki/Archimedes)
 can be given credit. He first postulated the simple machine in the 3rd century
 BCE. At this time, he claimed there were three simple machines, the lever, the
 pulley, and the screw. Later Greek scientists also declared the windlass and
@@ -359,21 +359,24 @@ machines, how they balanced forces, they lacked an understanding of the
 dynamics. This understanding came from Renaissance scientists. Renaissance
 scientists theorized the ideas of work and the trade-off between force and
 distance. The first great discovery by Renaissance scientists related to simple
-machines was by Simon Stevin, who derived the formula for the mechanical
-advantage of inclined planes. Later on, Leonardo da Vinci theorized the rules
-of sliding friction in the late 15th or early 16th century CE. However, he
-never published this work.
+machines was by [Simon Stevin](https://en.wikipedia.org/wiki/Simon_Stevin), who
+derived the formula for the mechanical advantage of inclined planes. Later on,
+[Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_vinci) theorized
+the rules of sliding friction in the late 15th or early 16th century CE.
+However, he never published this work.
 
-However, the most influential Renaissance scientist was Galileo Galilei, who
-developed the complete theory of the dynamics of simple machines, which was
-published during the year 1600 CE. Perhaps the most important discovery of
-Galileo was the realization that simple machines do not create energy; they
-only transform it.
+However, the most influential Renaissance scientist was
+[Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_galilei), who developed
+the complete theory of the dynamics of simple machines, which was published
+during the year 1600 CE. Perhaps the most important discovery of Galileo was
+the realization that simple machines do not create energy; they only transform
+it.
 
 As for compound machines, the door into the understanding of them was opened by
-Franz Reuleaux. He fathered the theory of kinematics during the 19th century
-CE. Kinematics involved the understanding of simple machines connected by
-joints. Without such a theory, today's machines would not at all be possible.
+[Franz Reuleaux](https://en.wikipedia.org/wiki/Franz_Reuleaux). He fathered the
+theory of kinematics during the 19th century CE. Kinematics involved the
+understanding of simple machines connected by joints. Without such a theory,
+today's machines would not at all be possible.
 
 License
 -------
