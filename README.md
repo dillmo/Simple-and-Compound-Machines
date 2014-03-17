@@ -380,6 +380,8 @@ today's machines would not at all be possible.
 
 License
 -------
+Simple and Compound Machines (c) by dillmo
+
 Licensed under a
 [Creative Commons Attribution 4.0 International](https://github.com/dillmo/Simple-and-Compound-Machines/blob/master/LICENSE)
 license.
