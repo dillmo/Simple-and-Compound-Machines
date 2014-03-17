@@ -39,7 +39,7 @@ Table of Contents
   4. [Gear Joints](#gear-joints)
 5. [Putting it All Together](#putting-it-all-together)
 6. [Building a Compound Lever](#building-a-compound-lever)
-7. History of Compound Machines
+7. [History of Compound Machines](#history-of-compound-machines)
 8. [License](#license)
 
 *Science Olympiad* Competition
@@ -344,6 +344,36 @@ license.
 As you can see, the device is relatively simple. You should also utilize the
 Law of the Lever in your device with known masses. That way, you could slide
 your own masses across the lever to your own markings for masses.
+
+History of Compound Machines
+----------------------------
+Naturally, the idea of the compound machine originated with the idea of the
+simple machine, which made up the compound machine. To that extent, Archimedes
+can be given credit. He first postulated the simple machine in the 3rd century
+BCE. At this time, he claimed there were three simple machines, the lever, the
+pulley, and the screw. Later Greek scientists also declared the windlass and
+the wedge to be simple machines.
+
+While the Greeks did have a good understanding of the statics of simple
+machines, how they balanced forces, they lacked an understanding of the
+dynamics. This understanding came from Renaissance scientists. Renaissance
+scientists theorized the ideas of work and the trade-off between force and
+distance. The first great discovery by Renaissance scientists related to simple
+machines was by Simon Stevin, who derived the formula for the mechanical
+advantage of inclined planes. Later on, Leonardo da Vinci theorized the rules
+of sliding friction in the late 15th or early 16th century CE. However, he
+never published this work.
+
+However, the most influential Renaissance scientist was Galileo Galilei, who
+developed the complete theory of the dynamics of simple machines, which was
+published during the year 1600 CE. Perhaps the most important discovery of
+Galileo was the realization that simple machines do not create energy; they
+only transform it.
+
+As for compound machines, the door into the understanding of them was opened by
+Franz Reuleaux. He fathered the theory of kinematics during the 19th century
+CE. Kinematics involved the understanding of simple machines connected by
+joints. Without such a theory, today's machines would not at all be possible.
 
 License
 -------
